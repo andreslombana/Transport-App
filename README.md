@@ -1,6 +1,6 @@
 #Transport Platform 🚚💨
 
-Esta plataforma es una solución **Full-Stack** diseñada para la gestión logística y el transporte de última milla. El sistema permite la interacción en tiempo real entre conductores y despachadores, optimizando la eficiencia operativa mediante el seguimiento GPS y una arquitectura escalable.
+Esta plataforma es una solución **Full-Stack** diseñada para la gestión logística y el transporte. El sistema permite la interacción en tiempo real entre conductores y despachadores, optimizando la eficiencia operativa mediante el seguimiento GPS y una arquitectura escalable.
 
 ## 📱 Capacidades Técnicas
 
