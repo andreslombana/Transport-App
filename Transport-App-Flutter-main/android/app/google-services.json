@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83499914142",
+    "project_id": "indriverclone-17a21",
+    "storage_bucket": "indriverclone-17a21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83499914142:android:2d9f7041a18fedb5bffc8f",
+        "android_client_info": {
+          "package_name": "com.example.indriver_clone_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKju-cynKKyB33zciJwUgnnlfgvZNzRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
