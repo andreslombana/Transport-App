@@ -10,7 +10,7 @@
         android:icon="@mipmap/ic_launcher">
         
         <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="AIzaSyDvfEpB6YCzFyhM2sHPsNa5jyMJR4ZABfo"/>
+                   android:value="AIzaxxxxxxxxxxxxxxxxxxxxxxxxx"/>
         
         <activity
             android:name=".MainActivity"
@@ -43,4 +43,5 @@
             <data android:mimeType="text/plain"/>
         </intent>
     </queries>
+
 </manifest>
